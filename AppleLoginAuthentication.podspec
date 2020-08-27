@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "AppleLoginAuthentication"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of Apple Login Authentication."
+  spec.summary      = "Apple Login Authentication in swift for apple login process."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
