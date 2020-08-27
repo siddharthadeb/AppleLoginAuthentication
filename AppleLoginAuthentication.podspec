@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "AppleLoginAuthentication/*.{swift}"
  # spec.exclude_files = "Classes/Exclude"
-
+    spec.swift_version = "5.0"
   # spec.public_header_files = "Classes/**/*.h"
 
 
